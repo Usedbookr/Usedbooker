@@ -1,0 +1,12 @@
+[04-May-2026 00:06:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/usedboo1/public_html/app/Http/Controllers/API/EverythingController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Controllers/API/EverythingController.php on line 25
+[04-May-2026 00:06:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/usedboo1/public_html/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Controllers/API/HomeController.php on line 18
+[04-May-2026 00:06:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/usedboo1/public_html/app/Http/Controllers/API/OTPController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Controllers/API/OTPController.php on line 15

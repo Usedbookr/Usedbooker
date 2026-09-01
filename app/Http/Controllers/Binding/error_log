@@ -1,0 +1,4 @@
+[04-May-2026 00:08:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/usedboo1/public_html/app/Http/Controllers/Binding/BindingController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Controllers/Binding/BindingController.php on line 11

@@ -1,0 +1,26 @@
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 88
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 88
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 88
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 88
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 89
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 89
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 89
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 89
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 90
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 90
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 90
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 90
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 91
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 91
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $order_details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $order_details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $order_details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $order_details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $order_details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 104
+[04-May-2026 00:37:36 UTC] PHP Warning:  Undefined variable $order_details in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 105
+[04-May-2026 00:37:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/usedboo1/public_html/resources/views/emails/order_details.blade.php on line 105

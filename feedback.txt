@@ -1,0 +1,30 @@
+E-commerce Functionality feedback:
+
+1. All categories navigation bar dropdowns should have subcategories in vertical order. - Noo
+2. the child category should not be mandatory when listing a book - Done
+3. The check boxes on the filter page are not working - not showing relevant categories and missing tick marks. Discount, Price and rating filters are missing. - Done
+4. Need image cropping for the add banner page in the Admin panel. - Noo
+5. Is the subscribe button to the Newsletter by giving an Email address working - not important. 
+6. The rating for new books should be empty. Let's enable customers to rate books in module 2. - Nooo
+7. Where can I edit featured Authors on the home page? - discuss
+8. How to update images in WEBP format? - Noo
+9. GST should be excluded from the product price and only be shown on the checkout page. Also, the shipping price calculation based on the number of books is missing (I can give the shipping price per order based on the number of books in the cart) and the Confirm order page is giving an error.
+10. On my profile page, unable to upload a profile image. The billing address content is missing. Also, how to edit password and why do we need a username field - Done
+11. The order history page does not show anything like "No orders have been placed yet by you" if the customer has never placed an order. - Done
+12. This was already there in the previous version and removed but needs a "set as default" button on the address tiles with a default address tag for the default address tile - Done
+13. Small bug - getting multiple OTPs when clicking multiple times on the submit button on the Login with OTP page. - Not important.
+14. The Wishlist button on tiles is giving an error.
+15. The condition chart pop-up is missing and the main price is not getting updated based on condition selection. - Done
+16. The binding type on the product description and product preview popup should be removed - 
+17. After the session expired, why was the item in the cart removed from my account 
+18. How does the live chat work? - Done
+19. Add Category-> sub-category-> Child category arrows on the top left side of the filter page and the product description page (preferably clickable) - Done
+20. Make the customer log-in mandatory by asking them to log in when a customer clicks on the Wishlist button if the customer is not logged in.
+21. Add "New books", "Second Read Books", "Sale" and "Sellyourbook" buttons on the blue navigation bar.
+22. Check on what reports we get from the E-commerce website Admin panel.
+23. The Forgot password button is not working - Done
+24. Does changing the contact address affect anything on the website?
+25. How does the mobile version of the functionality work like?
+26. The related products should not show the current product which is being displayed on the product description page - Done
+27. The View All button for the "Featured Authors" section is not working - Done
+28. On the mobile version, Order history, Address, and others are missing and Navigation dropdown buttons are not working - Done

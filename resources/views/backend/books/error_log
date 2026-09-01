@@ -1,0 +1,19 @@
+[04-May-2026 00:28:46 UTC] PHP Warning:  Undefined variable $item in /home/usedboo1/public_html/resources/views/backend/books/BooksSearch.blade.php on line 26
+[04-May-2026 00:28:46 UTC] PHP Warning:  Attempt to read property "section_id" on null in /home/usedboo1/public_html/resources/views/backend/books/BooksSearch.blade.php on line 26
+[04-May-2026 00:28:46 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/usedboo1/public_html/resources/views/backend/books/BooksSearch.blade.php on line 26
+[04-May-2026 00:29:00 UTC] PHP Warning:  Undefined variable $item in /home/usedboo1/public_html/resources/views/backend/books/all.blade.php on line 94
+[04-May-2026 00:29:00 UTC] PHP Warning:  Attempt to read property "section_id" on null in /home/usedboo1/public_html/resources/views/backend/books/all.blade.php on line 94
+[04-May-2026 00:29:00 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/usedboo1/public_html/resources/views/backend/books/all.blade.php on line 94
+[04-May-2026 00:29:00 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/usedboo1/public_html/resources/views/backend/books/all.blade.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/backend/books/all.blade.php on line 138
+[04-May-2026 00:29:09 UTC] PHP Warning:  Undefined variable $books in /home/usedboo1/public_html/resources/views/backend/books/edit.blade.php on line 140
+[04-May-2026 00:29:09 UTC] PHP Warning:  Attempt to read property "section_id" on null in /home/usedboo1/public_html/resources/views/backend/books/edit.blade.php on line 140
+[04-May-2026 00:29:09 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/usedboo1/public_html/resources/views/backend/books/edit.blade.php on line 140
+[04-May-2026 00:29:09 UTC] PHP Warning:  Undefined variable $varient in /home/usedboo1/public_html/resources/views/backend/books/edit.blade.php on line 388
+[04-May-2026 00:29:09 UTC] PHP Warning:  Attempt to read property "images" on null in /home/usedboo1/public_html/resources/views/backend/books/edit.blade.php on line 388
+[04-May-2026 00:29:09 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/usedboo1/public_html/resources/views/backend/books/edit.blade.php on line 388
+[04-May-2026 00:29:18 UTC] PHP Warning:  Undefined variable $varient in /home/usedboo1/public_html/resources/views/backend/books/multi.blade.php on line 53
+[04-May-2026 00:29:18 UTC] PHP Warning:  Attempt to read property "images" on null in /home/usedboo1/public_html/resources/views/backend/books/multi.blade.php on line 53
+[04-May-2026 00:29:18 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/usedboo1/public_html/resources/views/backend/books/multi.blade.php on line 53

@@ -1,0 +1,28 @@
+[04-May-2026 00:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/usedboo1/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Middleware/Authenticate.php on line 7
+[04-May-2026 00:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/usedboo1/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[04-May-2026 00:12:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/usedboo1/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[04-May-2026 00:12:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/usedboo1/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[04-May-2026 00:12:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/usedboo1/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[04-May-2026 00:12:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/usedboo1/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[04-May-2026 00:13:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/usedboo1/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7

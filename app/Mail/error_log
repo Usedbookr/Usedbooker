@@ -1,0 +1,8 @@
+[04-May-2026 00:13:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/usedboo1/public_html/app/Mail/OtpMail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Mail/OtpMail.php on line 12
+[04-May-2026 00:14:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/usedboo1/public_html/app/Mail/SendMail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Mail/SendMail.php on line 12

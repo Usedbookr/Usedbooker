@@ -1,0 +1,58 @@
+[04-May-2026 00:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function max_amount_get() in /home/usedboo1/public_html/resources/views/frontend/authorbooks.blade.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/authorbooks.blade.php on line 46
+[04-May-2026 00:38:31 UTC] PHP Fatal error:  Uncaught Error: Class "DB" not found in /home/usedboo1/public_html/resources/views/frontend/authsidebar.blade.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/authsidebar.blade.php on line 4
+[04-May-2026 00:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/usedboo1/public_html/resources/views/frontend/cart.blade.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/cart.blade.php on line 60
+[04-May-2026 00:39:09 UTC] PHP Fatal error:  Uncaught Error: Class "URL" not found in /home/usedboo1/public_html/resources/views/frontend/categories_list.blade.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/categories_list.blade.php on line 10
+[04-May-2026 00:39:16 UTC] PHP Fatal error:  Uncaught Error: Class "URL" not found in /home/usedboo1/public_html/resources/views/frontend/category.blade.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/category.blade.php on line 4
+[04-May-2026 00:39:33 UTC] PHP Warning:  Undefined variable $pages in /home/usedboo1/public_html/resources/views/frontend/faq.blade.php on line 12
+[04-May-2026 00:39:33 UTC] PHP Warning:  Attempt to read property "details" on null in /home/usedboo1/public_html/resources/views/frontend/faq.blade.php on line 12
+[04-May-2026 00:39:33 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/usedboo1/public_html/resources/views/frontend/faq.blade.php on line 12
+[04-May-2026 00:39:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Models\Book" not found in /home/usedboo1/public_html/resources/views/frontend/index.blade-1.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/index.blade-1.php on line 173
+[04-May-2026 00:40:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Models\Book" not found in /home/usedboo1/public_html/resources/views/frontend/index.blade.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/index.blade.php on line 112
+[04-May-2026 00:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function max_amount_get() in /home/usedboo1/public_html/resources/views/frontend/new-arrival.blade.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/new-arrival.blade.php on line 102
+[04-May-2026 00:41:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function whislistCheck() in /home/usedboo1/public_html/resources/views/frontend/productdetails.blade.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/productdetails.blade.php on line 12
+[04-May-2026 00:41:34 UTC] PHP Warning:  Undefined variable $sort_by in /home/usedboo1/public_html/resources/views/frontend/search.blade.php on line 27
+[04-May-2026 00:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function max_amount_get() in /home/usedboo1/public_html/resources/views/frontend/search.blade.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/search.blade.php on line 114
+[04-May-2026 00:41:51 UTC] PHP Fatal error:  Uncaught Error: Class "URL" not found in /home/usedboo1/public_html/resources/views/frontend/search_list1.blade.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/search_list1.blade.php on line 10
+[04-May-2026 00:41:59 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/usedboo1/public_html/resources/views/frontend/sidebar.blade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/sidebar.blade.php on line 3
+[04-May-2026 00:42:17 UTC] PHP Warning:  Undefined variable $varient in /home/usedboo1/public_html/resources/views/frontend/wishlist.blade.php on line 49
+[04-May-2026 00:42:17 UTC] PHP Warning:  Attempt to read property "stock" on null in /home/usedboo1/public_html/resources/views/frontend/wishlist.blade.php on line 49
+[04-May-2026 00:42:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function cardCheck() in /home/usedboo1/public_html/resources/views/frontend/wishlist.blade.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/frontend/wishlist.blade.php on line 60

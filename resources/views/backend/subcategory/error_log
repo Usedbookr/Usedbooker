@@ -1,0 +1,4 @@
+[04-May-2026 00:34:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Models\Category" not found in /home/usedboo1/public_html/resources/views/backend/subcategory/all.blade.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/backend/subcategory/all.blade.php on line 49

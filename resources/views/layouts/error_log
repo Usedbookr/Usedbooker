@@ -1,0 +1,4 @@
+[04-May-2026 00:44:43 UTC] PHP Fatal error:  Uncaught Error: Class "URL" not found in /home/usedboo1/public_html/resources/views/layouts/front.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/layouts/front.blade.php on line 22

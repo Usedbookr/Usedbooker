@@ -1,0 +1,20 @@
+[04-May-2026 00:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/usedboo1/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Providers/AppServiceProvider.php on line 7
+[04-May-2026 00:18:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/usedboo1/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Providers/AuthServiceProvider.php on line 8
+[04-May-2026 00:18:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/usedboo1/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[04-May-2026 00:19:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/usedboo1/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Providers/EventServiceProvider.php on line 10
+[04-May-2026 00:19:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/usedboo1/public_html/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Providers/RouteServiceProvider.php on line 11

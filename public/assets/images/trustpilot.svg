@@ -1,0 +1,25 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 96" width="512" height="96">
+	<title>stars-4</title>
+	<style>
+		.s0 { fill: #00b67a } 
+		.s1 { fill: #dcdce6 } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<g id="Trustpilot_ratings_4halfstar-RGB">
+		<g>
+			<path id="Rectangle-path" fill-rule="evenodd" class="s0" d="m0 0h96v96h-96z"/>
+			<path fill-rule="evenodd" class="s0" d="m104 0h96v96h-96z"/>
+			<path fill-rule="evenodd" class="s0" d="m208 0h96v96h-96z"/>
+			<path fill-rule="evenodd" class="s0" d="m312 0h96v96h-96z"/>
+			<g id="Half">
+				<path fill-rule="evenodd" class="s1" d="m464 0h48v96h-48z"/>
+				<path fill-rule="evenodd" class="s0" d="m416 0h48v96h-48z"/>
+			</g>
+			<path id="Shape" class="s2" d="m48 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7l-7.9-24.2-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2z"/>
+			<path class="s2" d="m152 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7l-7.9-24.2-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2z"/>
+			<path class="s2" d="m256 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7l-7.9-24.2-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2z"/>
+			<path class="s2" d="m360 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7l-7.9-24.2-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2z"/>
+			<path class="s2" d="m464 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7l-7.9-24.2-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2z"/>
+		</g>
+	</g>
+</svg>

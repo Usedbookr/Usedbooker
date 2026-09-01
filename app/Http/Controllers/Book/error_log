@@ -1,0 +1,4 @@
+[04-May-2026 00:08:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/usedboo1/public_html/app/Http/Controllers/Book/BookController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Controllers/Book/BookController.php on line 28

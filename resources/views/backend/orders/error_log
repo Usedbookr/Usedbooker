@@ -1,0 +1,34 @@
+[04-May-2026 00:32:39 UTC] PHP Warning:  Undefined variable $item in /home/usedboo1/public_html/resources/views/backend/orders/OrderSearch.blade.php on line 22
+[04-May-2026 00:32:39 UTC] PHP Warning:  Attempt to read property "final_amount" on null in /home/usedboo1/public_html/resources/views/backend/orders/OrderSearch.blade.php on line 22
+[04-May-2026 00:32:39 UTC] PHP Warning:  Undefined variable $item in /home/usedboo1/public_html/resources/views/backend/orders/OrderSearch.blade.php on line 22
+[04-May-2026 00:32:39 UTC] PHP Warning:  Attempt to read property "shipping_charge" on null in /home/usedboo1/public_html/resources/views/backend/orders/OrderSearch.blade.php on line 22
+[04-May-2026 00:32:39 UTC] PHP Warning:  Undefined variable $item in /home/usedboo1/public_html/resources/views/backend/orders/OrderSearch.blade.php on line 22
+[04-May-2026 00:32:39 UTC] PHP Warning:  Attempt to read property "gst_charge" on null in /home/usedboo1/public_html/resources/views/backend/orders/OrderSearch.blade.php on line 22
+[04-May-2026 00:32:39 UTC] PHP Warning:  Undefined variable $item in /home/usedboo1/public_html/resources/views/backend/orders/OrderSearch.blade.php on line 22
+[04-May-2026 00:32:39 UTC] PHP Warning:  Attempt to read property "coupen_amount" on null in /home/usedboo1/public_html/resources/views/backend/orders/OrderSearch.blade.php on line 22
+[04-May-2026 00:32:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Models\Order" not found in /home/usedboo1/public_html/resources/views/backend/orders/all.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/resources/views/backend/orders/all.blade.php on line 32
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $item in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 86
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "selling_price" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 86
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $item in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 86
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "qty" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 86
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $item in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 87
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "selling_price" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 87
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $orders in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "shipping_charge" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $orders in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "gst_charge" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $orders in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "coupen_amount" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $orders in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "payment_charge" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $orders in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "refferal_number_amount" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $orders in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "wallet_remain_amount" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $orders in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "wallet_using_amount" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Undefined variable $orders in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167
+[04-May-2026 00:32:52 UTC] PHP Warning:  Attempt to read property "extra_shipping_charge" on null in /home/usedboo1/public_html/resources/views/backend/orders/details.blade.php on line 167

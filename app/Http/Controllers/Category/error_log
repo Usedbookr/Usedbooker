@@ -1,0 +1,12 @@
+[04-May-2026 00:08:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/usedboo1/public_html/app/Http/Controllers/Category/CategoryController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Controllers/Category/CategoryController.php on line 14
+[04-May-2026 00:09:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/usedboo1/public_html/app/Http/Controllers/Category/ChildcategoryController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Controllers/Category/ChildcategoryController.php on line 13
+[04-May-2026 00:09:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/usedboo1/public_html/app/Http/Controllers/Category/SubcategoryController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/usedboo1/public_html/app/Http/Controllers/Category/SubcategoryController.php on line 13

